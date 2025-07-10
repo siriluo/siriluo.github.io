@@ -3,9 +3,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
-
-Welcome to my homepage! I am a Research Scientist at the University of Illinois Urbana-Champaign (UIUC). Prior to joining Illinois, I earned my Ph.D. in Aerospace and Mechanical Engineering from the University of Notre Dame, where I was advised by Prof. Tengfei Luo.
+Welcome to my homepage! I am a Research Scientist at the University of Illinois Urbana-Champaign (UIUC). Prior to joining Illinois, I earned my Ph.D. in Aerospace and Mechanical Engineering from the University of Notre Dame, where I was advised by Prof. Tengfei Luo ([link](https://engineering.nd.edu/faculty/tengfei-luo/)).
 
 My research focuses on high-performance computing (HPC) and artificial intelligence, with an emphasis on their applications in scientific research. I am particularly interested in advancing computational methods for healthcare, geoscience, and engineering simulation.
 
@@ -21,5 +19,5 @@ Please feel free to contact me if you are interested in my work or potential col
 
 ## Education
 - Ph.D., Aerospace and Mechanical Engineering, University of Notre Dame, 2013–2018
-- B.S., Shanghai Jiao Tong University, 2009–2013
+- B.S., Mechanical Engineering, Shanghai Jiao Tong University, 2009–2013
 
