@@ -14,21 +14,17 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "About Me"
+    url: /about/
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
-   
 
-  - title: "News"
-    url: /news/    
-    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Blogs"
+    url: /blogs/
 
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
