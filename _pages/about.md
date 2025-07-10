@@ -3,8 +3,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
-
 Welcome to my homepage! I am a Research Scientist at the University of Illinois Urbana-Champaign (UIUC). Prior to joining Illinois, I earned my Ph.D. in Aerospace and Mechanical Engineering from the University of Notre Dame, where I was advised by Prof. Tengfei Luo.
 
 My research focuses on high-performance computing (HPC) and artificial intelligence, with an emphasis on their applications in scientific research. I am particularly interested in advancing computational methods for healthcare, geoscience, and engineering simulation.
