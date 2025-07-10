@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Research Scientist"
+title                    : "Shirui Luo's Homepage"
 title_separator          : "-"
 name                     : &name "Shirui Luo"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Shirui Luo"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Scientist in the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign"
   location         : "Champaign, IL"
   employer         : "University of Illinois at Urbana-Champaign"
   uri              : https://siriluo.github.io/
