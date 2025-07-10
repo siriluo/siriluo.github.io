@@ -14,17 +14,14 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "About Me"
-    url: /about/
-
-  - title: "Projects"
-    url: /projects/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Blogs"
     url: /blogs/
+
+  - title: "News"
+    url: /News/
 
   - title: "Miscellaneous"
     url: /miscellaneous/

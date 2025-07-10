@@ -3,8 +3,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
-
 ## Healthcare Applications
 Generative models hold significant promise for addressing inverse problems in medical imaging by learning powerful data-driven priors that enhance image quality and recovery. These models can effectively capture complex anatomical structures and underlying data distributions, enabling improved performance in tasks such as super-resolution, inpainting, denoising, and image reconstruction. By incorporating prior knowledge directly into the solution process, generative approaches offer robust and efficient alternatives to traditional methods, particularly in scenarios with limited or noisy data, ultimately contributing to more accurate diagnostics and clinical decision-making.
 
