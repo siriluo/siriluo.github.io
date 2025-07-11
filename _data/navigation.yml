@@ -20,8 +20,6 @@ main:
   - title: "Blogs"
     url: /blogs/
 
-  - title: "Upcoming"
-    url: /Upcoming/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
