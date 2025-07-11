@@ -26,16 +26,22 @@ Generative models hold significant promise for addressing inverse problems in me
 We developed an automated pipeline for geologic map feature extraction that leverages AI to identify and interpret map elements. The system first extracts map units from the legend, then uses a prompt-based approach to perform open-set extraction of polygon and point features, using the legend items as prompts to guide the process.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/map_polygon_segmentation.png" alt="Map Polygon Segmentation" width="400"/>
+  <img src="{{ site.baseurl }}/images/map_polygon_segmentation.png" alt="Map Polygon Segmentation" width="600"/>
   <br/>
   <em>Model performance on polygon feature extraction after aggregating all polygon and point features across the entire map.</em>
 </p>
+
+Media coverage for this work can be found from national agents like DARPA and USGS:
+- [DARPA Critical Mineral Assessments with AI Support](https://www.darpa.mil/research/programs/critical-mineral-assessments-with-ai-support)
+- [USGS Collaborative Workshop on Machine Learning](https://www.usgs.gov/news/featured-story/collaborative-workshop-spotlights-machine-learning-accelerate-usgs-critical)
+- [DARPA TV YouTube Coverage](https://www.youtube.com/watch?v=JXVOGercsEw&ab_channel=DARPAtv)
+
 
 ## The Confluence of AI and HPC  for Scientific Simulation
 Physics-constrained learning methods incorporate known physical laws—such as conservation laws or differential equations—directly into the training of machine learning models. By embedding these constraints into the model architecture or loss function, they ensure that predictions remain consistent with established scientific principles. This approach enhances model accuracy, generalization, and interpretability, especially in data-scarce scenarios. Applicable across a wide range of scientific simulations—including fluid dynamics, structural mechanics, and climate modeling—physics-constrained methods bridge the gap between data-driven models and traditional physics-based approaches.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/turbine.PNG" alt="LES_turbine" width="400"/>
+  <img src="{{ site.baseurl }}/images/turbine.PNG" alt="LES_turbine" width="600"/>
   <br/>
   <em>Large eddy simulation of turbulent flow structures near the turbine endwall.</em>
 </p>
