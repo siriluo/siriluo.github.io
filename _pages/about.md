@@ -13,6 +13,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=lTT-vAoAAAAJ&h
 
 Please feel free to contact me if you are interested in my work or potential collaborations!
 
+
 ## Research Interests
 - High-Performance Computing (HPC)
 - Artificial Intelligence & Machine Learning
@@ -24,3 +25,5 @@ Please feel free to contact me if you are interested in my work or potential col
 - Ph.D., Aerospace and Mechanical Engineering, University of Notre Dame, 2013–2018
 - B.S., Shanghai Jiao Tong University, 2009–2013
 
+## News
+- 07/16/2025: A paper entitled "Hierarchical Diffusion Framework for Pseudo-Healthy Brain MRI Inpainting with Enhanced 3D Consistency" has been accepted for DGM4MICCAI 2025!
